@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinkeringGraphics_Pixelization", "TinkeringGraphics_Pixelization\TinkeringGraphics_Pixelization.csproj", "{07B11920-EC99-45A5-B205-D3E1F155A36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B11920-EC99-45A5-B205-D3E1F155A36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B11920-EC99-45A5-B205-D3E1F155A36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B11920-EC99-45A5-B205-D3E1F155A36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B11920-EC99-45A5-B205-D3E1F155A36A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85EA36FC-5D06-45DE-A579-42D80A4F8558}
+	EndGlobalSection
+EndGlobal
